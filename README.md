@@ -30,5 +30,6 @@ Can convert -
 * Liters => gallons and gallons => liters
 * Kilos => pounds and pounds to kilos
 	
-## Screenshots
-<img src="unitConversionSS.png">
+## Screen recording
+
+![Unit Conversion Video](unitConversionV.gif)
