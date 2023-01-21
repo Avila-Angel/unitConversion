@@ -19,7 +19,7 @@ Project is created with:
 * JavaScript
 * HTML
 * CSS
-*Figma
+* Figma
 
 
 ## Functionality
